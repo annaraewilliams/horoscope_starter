@@ -1,5 +1,70 @@
 /* add your css classes here */
 
 body { 
-  background: yellow; 
+  background: rgb(163, 163, 249); 
+}
+h1 {
+    font-family: 'Allura';
+    font-size: 70px;
+    color: black;
+    text-align: center;
+}
+
+h2{
+  font-family: 'Allura';
+  font-size: 40px;
+  color: black;
+  text-align: center;
+}
+
+h3{
+  font-family: 'Allura';
+  font-size: 40px;
+  color: black;
+  text-align: center;
+}
+
+#month, #day, #name {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    height: 40px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    color: black;
+}
+
+#startButton {
+    display: block;
+    margin: 50px auto 30px auto;
+    height: 60px;
+    font-family: 'Times New Roman';
+    font-size: 40px;
+    font-style: italic;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#sign{
+  font-family: 'Allura';
+  font-size: 40px;
+  color: black;
+  text-align: center;
+}
+
+#message{
+  font-family: 'Allura';
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+
+#image{
+  width: 200px;
+  text-align: center;
+
+}
+
+#img {
+  text-align: center;
 }
