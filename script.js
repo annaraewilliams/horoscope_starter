@@ -19,6 +19,7 @@ function bday(){
         }
     }
     if (month==2){
+        
         if(day<=16){
             var sign = 1
         }
